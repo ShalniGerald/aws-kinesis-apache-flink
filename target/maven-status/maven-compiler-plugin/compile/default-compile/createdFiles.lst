@@ -1,0 +1,4 @@
+com\example\fraud\FraudDetectionJob.class
+com\example\fraud\util\SnsPublisher.class
+com\example\fraud\FraudDetectionJob$FraudDetector.class
+com\example\fraud\model\Transaction.class
